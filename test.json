@@ -1,0 +1,142 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "user": "U08L00N7P39",
+            "type": "message",
+            "ts": "1752501538.056449",
+            "bot_id": "B08L00N5K2B",
+            "app_id": "A01FCAGKXF1",
+            "text": "New survey response received",
+            "team": "T02CSHEHH",
+            "bot_profile": {
+                "id": "B08L00N5K2B",
+                "deleted": false,
+                "name": "SurveySensum",
+                "updated": 1743599793,
+                "app_id": "A01FCAGKXF1",
+                "user_id": "U08L00N7P39",
+                "icons": {
+                    "image_36": "https://avatars.slack-edge.com/2022-02-09/3077255117302_b274d3218dfc10bcffa7_36.png",
+                    "image_48": "https://avatars.slack-edge.com/2022-02-09/3077255117302_b274d3218dfc10bcffa7_48.png",
+                    "image_72": "https://avatars.slack-edge.com/2022-02-09/3077255117302_b274d3218dfc10bcffa7_72.png"
+                },
+                "team_id": "T02CSHEHH"
+            },
+            "attachments": [
+                {
+                    "id": 1,
+                    "blocks": [
+                        {
+                            "type": "section",
+                            "block_id": "2tkaA",
+                            "text": {
+                                "type": "mrkdwn",
+                                "text": "*:neutral_face:You just got a new response*",
+                                "verbatim": false
+                            }
+                        },
+                        {
+                            "type": "section",
+                            "block_id": "lKKWJ",
+                            "text": {
+                                "type": "mrkdwn",
+                                "text": "*NPS Score:* 8  :large_yellow_circle:\n*Sentiment:* Passive",
+                                "verbatim": false
+                            }
+                        },
+                        {
+                            "type": "divider",
+                            "block_id": "G/I7H"
+                        },
+                        {
+                            "type": "section",
+                            "block_id": "wGUSn",
+                            "fields": [
+                                {
+                                    "type": "mrkdwn",
+                                    "text": "*User Id*\n9810159",
+                                    "verbatim": false
+                                },
+                                {
+                                    "type": "mrkdwn",
+                                    "text": "*Group Id*\n9708924",
+                                    "verbatim": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "section",
+                            "block_id": "uw/2U",
+                            "fields": [
+                                {
+                                    "type": "mrkdwn",
+                                    "text": "*Browser Url*\n<https://accessibility.browserstack.com/site-scanner/projects/mybag-demo.aero_ArunRajeev_9810159_a11y/builds?thBuildId=dabhqhko41yl3ulbwugjpptbehxvjilomsuoxtzz>",
+                                    "verbatim": false
+                                },
+                                {
+                                    "type": "mrkdwn",
+                                    "text": "*Eft Type*\n_Not answered_",
+                                    "verbatim": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "section",
+                            "block_id": "n0m0Q",
+                            "fields": [
+                                {
+                                    "type": "mrkdwn",
+                                    "text": "*Plan Type*\n_Not answered_",
+                                    "verbatim": false
+                                },
+                                {
+                                    "type": "mrkdwn",
+                                    "text": "*How likely are you to recommend BrowserStack Accessibility Testing to a friend or a colleague?*\n8",
+                                    "verbatim": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "section",
+                            "block_id": "wactR",
+                            "fields": [
+                                {
+                                    "type": "mrkdwn",
+                                    "text": "*Tell us a bit more about why you chose  `8` *\n_Not answered_",
+                                    "verbatim": false
+                                }
+                            ]
+                        }
+                    ],
+                    "color": "#FFFF00",
+                    "fallback": "[no preview available]"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Lvpv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "New survey response received"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "has_more": true,
+    "pin_count": 0,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0,
+    "response_metadata": {
+        "next_cursor": "bmV4dF90czoxNzUyNDc5MTA3MzIzODM5"
+    }
+}
